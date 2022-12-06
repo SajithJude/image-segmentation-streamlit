@@ -1,5 +1,4 @@
+opencv-python
 streamlit
 tensorflow
 pixellib
-opencv-python
-cv2
