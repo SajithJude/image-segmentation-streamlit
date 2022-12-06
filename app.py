@@ -5,7 +5,7 @@ from segmentation.semantic.semantic_segmentation import do_semantic
 import tensorflow as tf
 import time
 
-PAGE_TITLE = "Image Segmentation with Streamlit"
+PAGE_TITLE = "Image Segmentation for land slide detection"
 
 def file_selector(folder_path='.'):
     filenames = os.listdir(folder_path)
