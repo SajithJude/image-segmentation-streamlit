@@ -1,6 +1,6 @@
 import pixellib
 from pixellib.semantic import semantic_segmentation
-import cv2
+# import cv2
 import os
 
 def do_semantic(img_path):
