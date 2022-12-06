@@ -1,6 +1,5 @@
 import pixellib
 from pixellib.instance import instance_segmentation
-# import cv2
 import os
 
 def do_instance(img_path):
